@@ -170,6 +170,7 @@
     <ClCompile Include="problem118.cpp" />
     <ClCompile Include="problem12.cpp" />
     <ClCompile Include="problem120.cpp" />
+    <ClCompile Include="problem13.cpp" />
     <ClCompile Include="problem2.cpp" />
     <ClCompile Include="problem214.cpp" />
     <ClCompile Include="problem216.cpp" />
