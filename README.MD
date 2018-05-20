@@ -16,7 +16,7 @@ for most solutions.
 Most of these solutions are faster than 90% of submissions
 as of writing, and many are faster than 99%. The biggest
 performance trick you can do isn't actually anything algorithm
-related. It's including:
+related. Just include:
 
 ```cpp
 static const auto __ = []() {
@@ -26,5 +26,5 @@ static const auto __ = []() {
 }();
 ```
 
-At the top of every single submission. This will typically
+at the top of every single submission. This will typically
 cut your execution time in half for each test performed.
